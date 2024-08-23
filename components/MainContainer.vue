@@ -1,10 +1,10 @@
 <template>
-    <div class="md:h-screen content-height">
+    <div class="">
       <main class="flex mt-20 mx-6">
         <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 xl:gap-4 gap-y-4">
             <!-- Main Story -->
           <div class="xl:col-span-1 md:col-span-3 sm:col-span-1 bg-white pb-4 rounded shadow-md">
-            <div class="first-blog mb-4">
+            <div class="">
               <img 
               src="https://cdn.pixabay.com/photo/2022/11/27/10/31/bird-7619338_1280.jpg" 
               alt="Main Story Image" 
@@ -66,19 +66,11 @@ export default {
 </script>
 
 <style scoped>
-.first-blog {
-    width: 100%;
-    height: 245px;
-}
 .content-height {
     height: 130vh;
 }
 .adv-position {
   bottom: 25px;
   right: 25px;;
-}
-.class {
-  width: 100%;
-  height: 245px;
 }
 </style>

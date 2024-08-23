@@ -1,8 +1,8 @@
 <template>
-  <div class="bg-gray-100 min-h-screen overflow-auto">
+  <div class="bg-gray-100 overflow-auto h-screen flex flex-col justify-between">
     <navbar />
     <main-container />
-    <app-footer />
+    <app-footer class="align-end" />
   </div>
 </template>
 
