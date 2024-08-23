@@ -4,7 +4,7 @@
         <div class="container mx-auto grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 xl:gap-4 gap-y-4">
             <!-- Main Story -->
           <div class="xl:col-span-1 md:col-span-3 sm:col-span-1 bg-white pb-4 rounded shadow-md">
-            <div class="first-blog a mb-4">
+            <div class="first-blog mb-4">
               <img 
               src="https://cdn.pixabay.com/photo/2022/11/27/10/31/bird-7619338_1280.jpg" 
               alt="Main Story Image" 
